@@ -1,3 +1,4 @@
 # parkinson-s_disease_detection
-for dataset link:
+
+dataset link:
 https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set
